@@ -198,10 +198,10 @@ This project demonstrates practical experience in:
 
 
 ## 👤 Author
-```
 
-Abhin Suresh
-Data Analyst | SQL | Power BI | Python | ETL
-https://www.linkedin.com/in/abhin-suresh/
+**Abhin Suresh**  
+Data Analyst | SQL | Power BI | Python | ETL  
+
+[LinkedIn](https://www.linkedin.com/in/abhin-suresh/)
 
 ```
