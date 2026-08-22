@@ -167,16 +167,41 @@ Some observations that can be derived from the dataset include:
 
 ---
 
-## 📁 Repository Structure
+## 🚀 How to Use
+- Clone or download this repository.
+- Download the sales.pbix file.
+- Open the file using Microsoft Power BI Desktop.
+- Use the available slicers to filter the dashboard.
+- Select regions or other visual elements to explore detailed insights.
+- Use the drill-through functionality for detailed regional analysis.
 
-```text
-Power-BI-Sales-Dashboard/
-│
-├── sales.pbix
-├── data/
-│   └── pb_sales-data.xlsx
-│
-├── images/
-│   └── sales-dashboard.png
-│
-└── README.md
+
+---
+
+
+## 💡 Skills Demonstrated
+
+This project demonstrates practical experience in:
+
+- Data Cleaning & Transformation
+- Power BI Data Modeling
+- DAX Calculations
+- KPI Development
+- Interactive Dashboard Design
+- Data Visualization
+- Drill-Through Reporting
+- Business Data Analysis
+- Sales Performance Analysis
+
+
+---
+
+
+## 👤 Author
+```
+
+Abhin Suresh
+Data Analyst | SQL | Power BI | Python | ETL
+https://www.linkedin.com/in/abhin-suresh/
+
+```
