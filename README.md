@@ -1,4 +1,6 @@
 # 📊 Power BI Sales Dashboard
+
+## 📸 Dashboard Preview
 <img width="1355" height="782" alt="image" src="https://github.com/user-attachments/assets/8807c885-f6d8-4dae-8ed3-e552214d0ddd" />
 
 
